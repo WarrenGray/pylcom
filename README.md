@@ -1,4 +1,4 @@
-# PyLCOM
+# pylcom
 This module calculates the _Lack of Cohesion in Methods_ (LCOM) value for Python files. 
 This value is an objective measure of the [cohesiveness](https://en.wikipedia.org/wiki/Cohesion_(computer_science))
 of a particular class.

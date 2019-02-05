@@ -97,7 +97,7 @@ if __name__ == '__main__':
         }
 
         for klass, lcom in analysis.items():
-            print(klass + ': ' + str(lcom))
+            print(f"{klass}: {lcom}")
 
 
     sys.exit(main())
